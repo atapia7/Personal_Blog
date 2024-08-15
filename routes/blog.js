@@ -9,9 +9,9 @@ router.get('/', (req, res) => {
 });
 
 // Article page route
-//  router.get('/article/:id', (req, res) => {
-//    res.sendFile(path.join(__dirname, '../views', 'articleView.html'));
-//  });
+ router.get('/articleView', (req, res) => {
+    res.sendFile(path.join(__dirname, '../views', 'articleView.html'));
+  });
 
 
 router.get('/garticle', (req, res) => {

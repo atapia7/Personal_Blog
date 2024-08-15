@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>My First Article</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet"/>
     </head>
     <body>
         <div class="container my-5">
@@ -12,7 +13,7 @@
             <p class="text-muted" id="article-date"></p>
             <div>
                 <p id="article-content"></p>
-                <!-- Rest of the article content -->
+                
             </div>
             <a href="/" class="btn btn-primary mt-3">Back to Home</a>
         </div>
@@ -22,7 +23,7 @@
         document.addEventListener('DOMContentLoaded', function() {
         const urlParams = new URLSearchParams(window.location.search);
         const articleId = urlParams.get('id');
-        alert(articleId);
+        
         axios.get(`http://localhost:5000/garticle?id=${articleId}`) 
             .then(function(response) {
                 const article = response.data[0];

@@ -1,14 +1,14 @@
 [
   {
-    "id": "1",
-    "title": "My First Article raaa",
-    "content": "This is the content of my first article...",
-    "publishDate": "2024-08-07"
+    "id": 1,
+    "title": "1 article first ..",
+    "content": "1 first",
+    "publishDate": "2024-07-30"
   },
   {
-    "id": "2",
+    "id": 2,
     "title": "My second Article waa crew",
-    "content": "This is the content of my first article...",
+    "content": "This is the content of my first article...2",
     "publishDate": "2024-08-07"
   },
   {
@@ -18,39 +18,33 @@
     "publishDate": "2024-08-07"
   },
   {
-    "id": 4,
-    "title": "Personal Loan Account",
-    "content": "Senior",
-    "publishDate": "Sat Dec 07 2024 10:30:07 GMT-0500 (hora estándar de Perú)"
+    "id": 5,
+    "title": "Tito73@example.net",
+    "content": "Savings Account",
+    "publishDate": "2024-08-07"
   },
   {
     "id": 5,
-    "title": "Pizza",
-    "content": "Checking Account",
-    "publishDate": "Mon Aug 12 2024 15:40:08 GMT-0500 (hora estándar de Perú)"
+    "title": "Rosa_Nader17@example.net",
+    "content": "Home Loan Account",
+    "publishDate": "2024-08-07"
   },
   {
     "id": 6,
-    "title": "Soap",
-    "content": "Investment Account",
-    "publishDate": "Mon Aug 12 2024 10:32:10 GMT-0500 (hora estándar de Perú)"
+    "title": "Julian_Von72@example.net",
+    "content": "Personal Loan Account",
+    "publishDate": "2024-08-07"
   },
   {
     "id": 7,
-    "title": "Bacon",
-    "content": "Home Loan Account",
-    "publishDate": "Mon Aug 12 2024 22:14:34 GMT-0500 (hora estándar de Perú)"
+    "title": "Gus_Donnelly17@example.org",
+    "content": "Investment Account",
+    "publishDate": "2024-08-07"
   },
   {
     "id": 8,
-    "title": "Hat",
+    "title": "Lizeth44@example.com",
     "content": "Auto Loan Account",
-    "publishDate": "Mon Aug 12 2024 17:17:07 GMT-0500 (hora estándar de Perú)"
-  },
-  {
-    "id": 9,
-    "title": "Computer",
-    "content": "Personal Loan Account",
-    "publishDate": "Mon Aug 12 2024 09:43:00 GMT-0500 (hora estándar de Perú)"
+    "publishDate": "2024-08-07"
   }
 ]
